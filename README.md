@@ -20,4 +20,4 @@ I help developers, system integrators, and solution providers get **fast, reliab
 ---
 
 > ⚡ *“Great ideas need great infrastructure. I make it happen.”*
-# Jennifer-Yeung
+
